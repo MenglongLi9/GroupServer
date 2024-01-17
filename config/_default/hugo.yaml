@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SHEN-Group # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'http://leemenglong.gitee.io/group-server' # Website URL
 
 ############################
 ## LANGUAGE
